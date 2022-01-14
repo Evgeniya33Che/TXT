@@ -1,6 +1,6 @@
-Favorite-film-Batman
-TV-serias-Witcher
+Favorite_film-Batman
+TV_serias-Witcher
 Food_fried-potato
-Time-of-year-Spring
+Time_of_year-Spring
 I_want_to_go_to_the_USA
 
